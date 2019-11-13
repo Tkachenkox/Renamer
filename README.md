@@ -8,5 +8,6 @@ For current moment it support some resolutions of file such as:
 <li>*.doc/*.docx
 <li>*.png
 <li>*.mp4
+ .
 ***
 You can choose directory whith click on button "Choose directory" and set name for renaming personaly
